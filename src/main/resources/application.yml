@@ -1,0 +1,12 @@
+spring:
+    mail:
+        host: xzkjns2.tpddns.cn
+        username: demo@xiaozhengkeji.com
+        password: Demo1024
+    datasource:
+        driverClassName: com.mysql.cj.jdbc.Driver
+        url: jdbc:mysql://127.0.0.1:3306/blogx?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8
+        username: blogx
+        password: blogx
+
+
